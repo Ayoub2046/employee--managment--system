@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 This is a desktop Employee Management System built with Python, CustomTkinter, and SQLite.
@@ -29,3 +30,6 @@ This is a desktop Employee Management System built with Python, CustomTkinter, a
 ## Notes
 - The database file (`employees.db`) is included for demo purposes.
 - Profile images are stored in `employee_photos/`. 
+=======
+# employee--managment--system
+>>>>>>> 3d6f6d888ceb40490665437da8cbd2102e5e8032
